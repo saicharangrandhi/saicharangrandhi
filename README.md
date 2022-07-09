@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 
+
+I am Sai Charan and doing as a Trainee in Data Science at Neue fische GmbH
+
+- Masters in Mathematical Modelling.
+- 📫 How to reach me : [LinkedIn: Saicharangrandhi](https://www.linkedin.com/in/venkata-sai-charan-grandhi-b30987191/)
 
 <!--
 **saicharangrandhi/saicharangrandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
